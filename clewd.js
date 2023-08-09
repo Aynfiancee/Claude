@@ -2,7 +2,7 @@
  * PASTE YOUR COOKIE BETWEEN THE QUOTES
  * @preserve 
  */
-const Cookie = const Cookie = process.env.cookies;
+const Cookie = const Cookie = ‘process.env.cookies’;
 
 /**
 ## EXPERIMENTAL
